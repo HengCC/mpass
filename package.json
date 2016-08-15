@@ -1,0 +1,8 @@
+{
+  "name": "mpass",
+  "version": "1.0",
+  "dependencies": {
+    "inquirer": "^1.1.2",
+    "commander": "^2.9.0"
+  }
+}
